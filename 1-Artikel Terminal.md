@@ -40,6 +40,40 @@
 
 <img width="265" alt="image" src="https://user-images.githubusercontent.com/101826376/200484745-87236224-9ef7-49ed-a117-1a4736a51911.png">
 
+## 4. cd Command
+
+<p align="justify">Untuk menjelajahi file dan direktori notebook colab, gunakan perintah cd. Perintah  ini memerlukan path penuh atau nama direktori, tergantung pada direktori yang Anda gunakan saat ini.</p>
+<p align="justify">Misalkan saat ini Anda sedang berada di /content/sample_data dan ingin membuka sample_data, subdirektori dari content. Untuk melakukannya, Anda hanya perlu mengetikkan command ini: cd Photos.</p>
+
+```
+cd sample_data
+```
+***Output :***
+
+<img width="506" alt="image" src="https://user-images.githubusercontent.com/101826376/200485438-6c54374f-a4b2-4b2b-b3df-483da1606790.png">
+
+## 5. mv command
+
+<p align="justify">Fungsi utama command mv adalah untuk memindahkan file meskipun sebenarnya bisa digunakan untuk mengganti atau mengubah nama file.
+Argumen yang ada di mv serupa dengan argumen yang ada di perintah cp. Ketik mv, nama file, dan direktori tujuan. Contoh: <strong>mv /content/sample_data/mnist_test.csv /content/test</strong>.</p>
+
+```
+mv /content/sample_data/mnist_test.csv /content/test
+```
+
+```
+cd ../test
+```
+```
+ls
+```
+
+***Output :***
+
+<img width="501" alt="image" src="https://user-images.githubusercontent.com/101826376/200486695-89c49eeb-c9ef-4014-a391-95c58b3c0bf6.png">
+
+
+
 
 
 
