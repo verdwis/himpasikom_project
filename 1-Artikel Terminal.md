@@ -95,6 +95,12 @@ rm -r mnist_test.csv
 
 <img width="579" alt="image" src="https://user-images.githubusercontent.com/101826376/200488163-7031a5cf-71db-4fcd-bc6e-14d69697f2c7.png">
 
+# Kesimpulan
+
+<p align="justify">Perintah dasar Linux membantu user atau penggunanya untuk menjalankan task dengan mudah dan efektif. Memang bukan hal yang mudah untuk mengingat semua perintah Linux di atas. Namun, semuanya akan teratasi bila Anda terus berlatih dan berlatih.</p>
+
+Mempelajari command dasar Linux akan membawa keuntungan berlipat untuk Anda! Selamat mencoba.
+
 
 
 
