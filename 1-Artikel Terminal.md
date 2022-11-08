@@ -83,6 +83,21 @@ rm -r mnist_test.csv
 
 <img width="250" alt="image" src="https://user-images.githubusercontent.com/101826376/200487460-24fba04f-26b5-4636-b6ba-27a9c284c6f0.png">
 
+## 7. cp command
+
+<p align="justify">Gunakan perintah dasar notebook colab cp untuk menyalin file dari direktori saat ini ke direktori yang berbeda. Misalnya, command <strong>!cp -r /content/sample_data/california_housing_test.csv /content/drive/MyDrive/HIMPASIKOM/EngineeringForResearcher</strong> untuk membuat salinan california_housing_test.csv  (dari direktori saat ini) ke direktori EngineeringForResearcher.</[>
+
+```
+!cp -r /content/sample_data/california_housing_test.csv /content/drive/MyDrive/HIMPASIKOM/EngineeringForResearcher
+```
+
+***Output :***
+
+<img width="579" alt="image" src="https://user-images.githubusercontent.com/101826376/200488163-7031a5cf-71db-4fcd-bc6e-14d69697f2c7.png">
+
+
+
+
 
 
 
