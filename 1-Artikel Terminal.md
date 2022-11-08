@@ -72,6 +72,20 @@ ls
 
 <img width="501" alt="image" src="https://user-images.githubusercontent.com/101826376/200486695-89c49eeb-c9ef-4014-a391-95c58b3c0bf6.png">
 
+## 6. rm command
+
+<p align="justify">rm adalah perintah dasar pada notebook colab yang berfungsi untuk menghapus direktori beserta isinya. Jika hanya ingin menghapus direktorinya saja – alternatif command selain rmdir – gunakan rm -r.</p>
+
+```
+rm -r mnist_test.csv
+```
+***Output :***
+
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/101826376/200487460-24fba04f-26b5-4636-b6ba-27a9c284c6f0.png">
+
+
+
+
 
 
 
