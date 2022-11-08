@@ -16,6 +16,38 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px; witdth: 50px " />
      
+     
+## 2. ls Command
+
+<p align="justify"> Is merupakan perintah dasar pada Linux yang digunakan untuk melihat konten atau isi direktori. Secara default, command ini akan menampilkan isi dari direktori yang Anda gunakan saat ini. Jika ingin melihat isi direktori lain, ketik Is, disusul dengan path direktori. Contoh, ketik Is /content untuk melihat isi Documents.</p>
+
+```
+!ls
+```
+***Output :***
+
+<img width="235" alt="image" src="https://user-images.githubusercontent.com/101826376/200484300-259d0237-ddad-49ce-9aa6-743f810da261.png">
+
+## 3. mkdir Command
+
+<p align="justify">Untuk membuat direktori baru, Anda bisa menggunakan perintah dasar Linux mkdir. Sebagai contoh, jika Anda mengetik mkdir <strong>test</strong>, direktori baru yang muncul disebut <strong>test</strong>.</p>
+
+```
+!mkdir test
+```
+
+***Output :***
+
+<img width="265" alt="image" src="https://user-images.githubusercontent.com/101826376/200484745-87236224-9ef7-49ed-a117-1a4736a51911.png">
+
+
+
+
+
+
+
+
+     
 
 
      
